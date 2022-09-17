@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Inventory and POS System/task/build/
+/Inventory and POS System/task/out/
+/Inventory and POS System/task/out/production/classes/
